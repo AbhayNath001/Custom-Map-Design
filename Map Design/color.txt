@@ -1,0 +1,7 @@
+Building - FD1C1C
+Water - 0555BD
+Roads - 000000
+Urban Area - FCA37D
+
+Map ID - 34102d9aa568715a
+API Key = AIzaSyDF7rpCwEdLyXDWPGI4SvkCL_yMHOHiyBs
